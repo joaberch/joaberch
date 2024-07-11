@@ -5,7 +5,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.goconqr.com/uploads/slide_property/image/611324/desktop_ea5b95f6-8283-4618-8a97-26066b893687.jpg" title="COBOL" alt="COBOL" width="40" height="40"/>&nbsp;
+  <img src="https://logodix.com/logo/2100293.png" title="COBOL" alt="COBOL" width="40" height="40"/>&nbsp;
 
 </div>
 
