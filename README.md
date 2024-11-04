@@ -10,7 +10,13 @@
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <ul>
+    <!--<li>TODO : update(Quiz)[https://github.com/joaberch/Quiz]</li>-->
+    <!--<li>TODO : update(Clicker ASP)[https://github.com/joaberch/Clicker-ASP.NET]</li>-->
+    <!--<li>TODO : release (TODO LIST)[https://github.com/joaberch/Vue-TODO-LIST]</li>-->
+    <li>(Snake)[https://github.com/joaberch/P_Bulles_Snake_JavaScript]</li><!--TODO : update-->
+  </ul>
   <img src="https://th.bing.com/th/id/OIP.ZdMRY1g_qmMttVQYszM_ywHaG2?w=635&h=588&rs=1&pid=ImgDetMain" title="COBOL" alt="COBOL" width="40" height="40"/>&nbsp;
 </div>
 
