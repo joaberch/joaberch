@@ -2,8 +2,8 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/><br>
   <ul>
-    <li>[plot-that-line](https://github.com/joaberch/plot-that-line)</li>
-    <li>[SpicyInvaders](https://github.com/joaberch/SpicyInvaders)</li>
+    <li><a href="https://github.com/joaberch/plot-that-line" target="_blank">plot-that-line</a></li>
+    <li><a href="https://github.com/joaberch/SpicyInvaders" target="_blank">SpicyInvaders</a></li>
     <!--<li>#TODO : release flashCards (MAUI)</li>-->
     <!--<li>#TODO : release reapEpub_mobile (MAUI)</li>-->
   </ul>
@@ -15,7 +15,7 @@
     <!--<li>TODO : update(Quiz)[https://github.com/joaberch/Quiz]</li>-->
     <!--<li>TODO : update(Clicker ASP)[https://github.com/joaberch/Clicker-ASP.NET]</li>-->
     <!--<li>TODO : release (TODO LIST)[https://github.com/joaberch/Vue-TODO-LIST]</li>-->
-    <li>[Snake](https://github.com/joaberch/P_Bulles_Snake_JavaScript)</li><!--TODO : update-->
+    <li><a href="https://github.com/joaberch/P_Bulles_Snake_JavaScript">Snake</a></li><!--TODO : update-->
   </ul>
   <img src="https://th.bing.com/th/id/OIP.ZdMRY1g_qmMttVQYszM_ywHaG2?w=635&h=588&rs=1&pid=ImgDetMain" title="COBOL" alt="COBOL" width="40" height="40"/>&nbsp;
 </div>
