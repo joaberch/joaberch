@@ -17,6 +17,13 @@
     <!--<li>TODO : release (TODO LIST)[https://github.com/joaberch/Vue-TODO-LIST]</li>-->
     <li><a href="https://github.com/joaberch/P_Bulles_Snake_JavaScript">Snake</a></li><!--TODO : update-->
   </ul>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" title="Godot" alt="Godot" width="40" height="40"/>
+  <ul>
+    <li><a href="https://github.com/joaberch/godot-2playerGame" target="_blank">2 players game</a></li>
+    <!--<li><a href="https://github.com/LucasLordon/A_Party_Game_With_Tower" target="_blank">TODO : get a public fork</a></li>-->
+  </ul>
+  
   <img src="https://th.bing.com/th/id/OIP.ZdMRY1g_qmMttVQYszM_ywHaG2?w=635&h=588&rs=1&pid=ImgDetMain" title="COBOL" alt="COBOL" width="40" height="40"/>&nbsp;
 </div>
 
