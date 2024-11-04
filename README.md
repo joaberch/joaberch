@@ -23,8 +23,13 @@
     <li><a href="https://github.com/joaberch/godot-2playerGame" target="_blank">2 players game</a></li>
     <!--<li><a href="https://github.com/LucasLordon/A_Party_Game_With_Tower" target="_blank">TODO : get a public fork</a></li>-->
   </ul><hr>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue3" alt="Vue3" width="40" height="40"/>
+  <ul>
+    <li><a href="https://github.com/joaberch/Book-Passion" target="_blank">Book-Passion</a></li>
+  </ul><hr>
   
-  <img src="https://th.bing.com/th/id/OIP.ZdMRY1g_qmMttVQYszM_ywHaG2?w=635&h=588&rs=1&pid=ImgDetMain" title="COBOL" alt="COBOL" width="40" height="40"/>&nbsp;
+  <img src="https://th.bing.com/th/id/OIP.ZdMRY1g_qmMttVQYszM_ywHaG2?w=635&h=588&rs=1&pid=ImgDetMain" title="COBOL" alt="COBOL" width="40" height="40"/>
 </div>
 
 ---
