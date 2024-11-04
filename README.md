@@ -23,7 +23,7 @@
     <li><a href="https://github.com/joaberch/godot-2playerGame" target="_blank">2 players game</a></li>
     <!--<li><a href="https://github.com/LucasLordon/A_Party_Game_With_Tower" target="_blank">TODO : get a public fork</a></li>-->
   </ul><hr>
-  <img src="https://kinsta.com/wp-content/uploads/2022/04/express-1.png" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/512/express-js.png" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue3" alt="Vue3" width="40" height="40"/>
   <ul>
     <li><a href="https://github.com/joaberch/Book-Passion" target="_blank">Book-Passion</a></li>
