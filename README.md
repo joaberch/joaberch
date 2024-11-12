@@ -28,8 +28,6 @@
   <ul>
     <li><a href="https://github.com/joaberch/Book-Passion" target="_blank">Book-Passion</a></li>
   </ul><hr>
-  
-  <img src="https://th.bing.com/th/id/OIP.ZdMRY1g_qmMttVQYszM_ywHaG2?w=635&h=588&rs=1&pid=ImgDetMain" title="COBOL" alt="COBOL" width="40" height="40"/>
 </div>
 
 ---
