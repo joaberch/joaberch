@@ -22,6 +22,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" title="Godot" alt="Godot" width="40" height="40"/>
   <ul>
     <li><a href="https://github.com/joaberch/godot-2playerGame" target="_blank">2 players game</a></li>
+    <li><a href="https://github.com/joaberch/Tower-Party" target="_blank">Tower Party</a></li>
     <!--<li><a href="https://github.com/LucasLordon/A_Party_Game_With_Tower" target="_blank">TODO : get a public fork</a></li>-->
   </ul><hr>
   <img src="https://img.icons8.com/color/512/express-js.png" title="Express" alt="Express" width="40" height="40"/>&nbsp;
