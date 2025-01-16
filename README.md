@@ -1,9 +1,10 @@
-### :hammer_and_wrench: Languages i am currently learning :
+### :hammer_and_wrench: Languages I am currently learning :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/><br>
   <ul>
     <li><a href="https://github.com/joaberch/plot-that-line" target="_blank">plot-that-line</a></li>
     <li><a href="https://github.com/joaberch/SpicyInvaders" target="_blank">SpicyInvaders</a></li>
+    <li><a href="https://github.com/joaberch/joachim-BitRuisseau" target="_blank">BitRuisseau</a></li>
     <!--<li>#TODO : release flashCards (MAUI)</li>-->
     <!--<li>#TODO : release reapEpub_mobile (MAUI)</li>-->
   </ul><hr>
