@@ -29,7 +29,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue3" alt="Vue3" width="40" height="40"/>
   <ul>
     <li><a href="https://github.com/joaberch/Book-Passion" target="_blank">Book-Passion</a></li>
+  </ul><hr>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="40" height="40"/>
+  <ul>
+    <li><a href="https://github.com/joaberch/Go-LocalSearchEngine" target="_blank">GoSearch</a>/li>
+    <!--TODO got<li><a>GoSearch</a>/li>-->
   </ul>
+  
 </div>
 
 ---
