@@ -47,6 +47,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VisualStudioCode" alt="VisualStudioCode" width="40" height="40"/>&nbsp;
   <img src="https://ggnome.com/wp-content/uploads/2019/12/pano2vr_v6.png" width="40" height="40" title="Pano2VR" alt="Pano2VR"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" title="Godot" alt="Godot" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/goland/goland-original.svg" title="Goland" alt="Goland" width="40" height="40"/>
 </div>
 
 ---
